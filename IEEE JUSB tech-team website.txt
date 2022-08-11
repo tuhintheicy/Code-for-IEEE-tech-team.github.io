@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<body style="background-color:lightblue;">
+
+<h1 style="color:red;">IEEE ML Accelerator 2.0</h1>
+ <h2 style="color:red;">Introduction</h2>
+ <p style="color:blue;"><i>IEEE MLAS 2.0 as we all know is a huge comeback after the covid-stricken 2 years.And here we go, it's huge success with a hooping 100+ participant
+    has proved it's worth !But how it was arranged afterall and how it has successfully crossed the day with productive output! so der kis baat ki ?!
+    chaliye dekhte hain abhi</i> </p>
+
+<h2 style="color:red;">Entire event timeline</h2>
+ <p style="color:blue;"><i>The day kickstarted off with introduction to the overall functioning of the IEEE JUSB by the officeholders.Then began the workshop with
+     briefing on how the ML and AL works exactly and how it's code are written and what is Google collab all about.Then came the detailing of model training
+     and showing of an example of machine learning program of handwriting recognition by Biparnak Roy, one of our senior and the Secretary of IEEE JUSB.That was
+     indeed a hands-on experience in ML coding for many peeps. There were much enthusiasm among the UG1 fellas who were the among the learners mainly.
+     Then there was a lunch break after which one of our super senior and ML expert who was also an Alumni of JU,
+     <a href="https://www.linkedin.com/in/krisg04">Krishnachur Ghosh (click on the name to get access of the linkedin account)</a>, shared his knowledge
+     on application of ML in various domains of our life, the session being quite interactive . Then a Hackathon was organized where basically people had to play with 
+     data on Fashion items and train the data. This was basically brainstorming on the data and little bit of code to increase the accuracy of the model.Latly certificates 
+     of participation was given out to all the participants followed by giving away of the winner's prize and the Runner up's prize . The winner was Parthib Dhali and runner up was 
+     Tahera Bano respectively. After that the workshop was concluded with a load of memories and a bunch of knowledge.</i></p>
+
+<h2 style="color:red;">Some moments captured in the Event</h2>
+ <img src="C:\Users\USER\Desktop\IEEE JU Student's chapter.jpg"  width="104" height="142">
+ <hr>
+ <img src="C:\Users\USER\Desktop\IEEE JU Student's chapter.jpg" width="104" height="142">
+ <hr>
+ <img src="C:\Users\USER\Desktop\IEEE JU Student's chapter.jpg" width="104" height="142">
+ <hr>
+ <img src="C:\Users\USER\Desktop\IEEE JU Student's chapter.jpg" width="104" height="142">
+
+<h2 style="color:red;">Contacts and location</h2>
+   <h3>socially useful links :)</h3>
+   <i><a href="https://instagram.com/_ieeeju?igshid=YmMyMTA2M2Y=">Link to the Instagram handle of IEEE JUSB</a>
+   <hr>
+   <a href="https://www.facebook.com/ieeejusb">Link to the Official Facebook page of IEEE JUSB</a>
+   <hr>
+   <a href="https://twitter.com/IeeeJadavpur">Link to the Twitter handle of IEEE JUSB</a>
+   <hr>
+   <a href="https://www.linkedin.com/company/ieee-ju/mycompany/">Link to the Linkedin page of IEEE JUSB</a>
+   <hr>
+   <a href="jaduniv.ieee@gmail.com">Link to the Email-id of IEEE JUSB</a></i>
+   <hr>
+   <h3>Our Location :)</h3>
+   <p style="color:blue;"><i>TEQIP Building, Jadavpur University, Kolkata
+
+      Address: 188, Raja S.C. Mallick Rd,
+      Kolkata 700032.Ph:+9133-24146666</p><i>
+
+</body>
+</html>
