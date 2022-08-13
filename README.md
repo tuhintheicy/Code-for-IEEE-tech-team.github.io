@@ -1,2 +1,2 @@
 # Code-for-IEEE-tech-team
-this contains the code for the website that i have created.
+This contains the code (combined with all types of Frontend and Backend development) for the website that i have made for IEEE JUSB membership drive screening test.
